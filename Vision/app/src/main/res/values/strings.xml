@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vision</string>
+    <string name="btn_start">Start Walking</string>
+    <string name="id_label">ID: </string>
+    <string name="id_value">[id]</string>
+    <string name="content_label">Content: </string>
+    <string name="content_value">[content]</string>
+    <string name="btn_stop">Stop Walking</string>
+</resources>

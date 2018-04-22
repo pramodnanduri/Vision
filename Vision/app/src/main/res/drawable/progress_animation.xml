@@ -1,0 +1,11 @@
+<animation-list android:id="@+id/selected"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/pulse0" android:duration="50" />
+    <item android:drawable="@drawable/pulse1" android:duration="50" />
+    <item android:drawable="@drawable/pulse2" android:duration="50" />
+    <item android:drawable="@drawable/pulse3" android:duration="50" />
+    <item android:drawable="@drawable/pulse4" android:duration="50" />
+    <item android:drawable="@drawable/pulse5" android:duration="50" />
+    <item android:drawable="@drawable/pulse6" android:duration="50" />
+    </animation-list>
