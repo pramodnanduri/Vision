@@ -1,3 +1,7 @@
+## 1st Prize: 
+Yes we received 1st prize for this Code!!.. :-) Here is the website news. 
+https://www.scu.edu/ethics/internet-ethics-blog/broncohack-2018/
+
 ## Inspiration
 In pursuit of creating a social impact and to help the blind and visually impaired people, we created an app that helps the visually impaired detect obstacles ahead by forewarnings. 
 
